@@ -99,7 +99,8 @@ python app.py
 
 # Screenshots
 
-<img width="1918" height="1078" alt="Screenshot 2026-06-09 203419" src="https://github.com/user-attachments/assets/a127de8a-0ce9-418b-9b71-2d176bae78a2" />
+<img width="1918" height="984" alt="Screenshot 2026-06-09 203419" src="https://github.com/user-attachments/assets/b1bb6e23-ec9b-4ed7-aba8-9f8b1ed99c81" />
+
 
 
 ---
