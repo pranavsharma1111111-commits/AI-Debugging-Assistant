@@ -30,20 +30,34 @@ Return output EXACTLY in this format:
 ERROR:
 ...
 
+LEVEL:
+Estimate whether this concept is Beginner, Intermediate, or Advanced.
+
 EXPLANATION:
 ...
 
 FIXED CODE:
+```python
 ...
 
-Rules:
-- Be short and direct.
-- Find syntax or logic errors.
-- Mention line/problem clearly.
-- Explain simply in 1-2 sentences.
-- Provide corrected code.
-- Avoid long teaching paragraphs.
+LEARN:
+Explain the programming concept in simple beginner-friendly words.
 
+NEXT CHALLENGE:
+Give one tiny coding exercise that helps practice the concept. Do not repeat the same code.
+
+Rules:
+
+Be short and direct.
+Find syntax or logic errors.
+Mention line/problem clearly.
+Explain simply in 1–2 sentences.
+Provide corrected code.
+Avoid long teaching paragraphs.
+Teach beginners.
+Keep challenge under 1 sentence.
+Determine LEVEL based on the knowledge needed to understand and fix the error.
+Only output Beginner, Intermediate, or Advanced.
 Code:
 {code}
 """
